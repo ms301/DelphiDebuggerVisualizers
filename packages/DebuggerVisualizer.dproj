@@ -86,6 +86,7 @@
         <DCCReference Include="..\source\DDV.Visualizer.TComponent.pas"/>
         <DCCReference Include="..\source\DDV.Visualizers.Evaluator.pas"/>
         <DCCReference Include="..\source\DDV.Visualizers.CommonOTA.pas"/>
+        <DCCReference Include="..\source\ts.VisulizerExtentions.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
